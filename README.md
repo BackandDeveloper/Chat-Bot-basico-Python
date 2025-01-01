@@ -26,7 +26,7 @@ cd SeuRepositorio
 ```
 python chatbot.py
 ```
-## Estrutura do Código:
+## 🗂️|  Estrutura do Código:
 
 O código principal está no arquivo chatbot.py. Ele contém uma função chatbot_response que mapeia as entradas do usuário para respostas predefinidas e uma função main que gerencia a interação com o usuário.
 
