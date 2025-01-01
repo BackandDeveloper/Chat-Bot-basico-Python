@@ -1,4 +1,4 @@
-## Chatbot em Python:
+## 🤖| Chatbot em Python:
 Este projeto é um chatbot simples desenvolvido em Python que responde a perguntas básicas. Ele pode ser expandido e personalizado conforme necessário.
 
 ## Funcionalidades: 
