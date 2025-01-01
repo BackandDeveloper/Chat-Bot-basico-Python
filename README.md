@@ -10,7 +10,7 @@ Responde a perguntas básicas como saudações, nome, estado e capacidades.
  Fácil de expandir com novas perguntas e respostas.
 
 ```
-## Como Usar:
+## 📑| Como Usar:
 ```
 Clone este repositório para o seu ambiente local.
 ```
