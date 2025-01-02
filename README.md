@@ -32,3 +32,4 @@ O código principal está no arquivo chatbot.py. Ele contém uma função chatbo
 
 ## 🤝| Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
+  E-mail: 
