@@ -28,11 +28,12 @@ python chatbot.py
 ```
 ## 🗂️|  Estrutura do Código:
 
+```
 Chat-Bot-basico-Python/
 ├── README.md
 ├── chatbot.py
 └── .gitignore
-
+```
 
 ## 👥| Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
